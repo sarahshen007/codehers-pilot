@@ -211,7 +211,9 @@ h1, h2, h3, h4, h5, h6 {
     .site-navbar .site-navigation .site-menu a {
       text-decoration: none !important;
       font-size: 15px;
-      display: inline-block; }
+      display: inline-block;
+
+ }
     .site-navbar .site-navigation .site-menu > li {
       display: inline-block;
       padding: 10px 5px; }
@@ -460,7 +462,7 @@ h1, h2, h3, h4, h5, h6 {
     -o-transition: .3s all ease;
     transition: .3s all ease; }
   .sticky-wrapper.is-sticky .site-navbar {
-    background-color: #0b1b4b;
+    background-color: #ff6f95;
     -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.6);
     box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.6); }
 
@@ -496,7 +498,8 @@ h1, h2, h3, h4, h5, h6 {
   .site-blocks-cover h1 {
     font-weight: 900;
     color: #fff;
-    font-size: 3rem; }
+    font-size: 3rem;
+  }
     .site-blocks-cover h1 strong {
       font-weight: 900; }
     .site-blocks-cover h1 a {
@@ -744,7 +747,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: .1em;
   font-size: 12px;
   font-weight: 700;
-  color: #caab57;
+  color: #b6e3ff;
   margin-bottom: 10px; }
 
 .about-section .img-years {
