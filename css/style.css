@@ -143,7 +143,8 @@ h2, h3, h4, h5, h6{
 
 .site-footer {
   padding: 4em 0;
-  background: #ff6f95; }
+  background: #ff6f95;
+  }
   .site-footer p {
     color: #737373; }
   .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
@@ -1297,4 +1298,25 @@ nav ul li{
   text-shadow: 5px 5px #ff6f95;
 }
 
+#credits-footer {
+  padding: 20px 0px 15px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+}
+
+.social-media-icon {
+  width: 30px;
+  transition: filter 0.35s ease;
+  filter: invert(1);
+}
+
+.social-media-icon:hover {
+  filter: invert(0);
+}
+
+h6{
+  font-size: 13px;
+}
 /*# sourceMappingURL=style.css.map */
