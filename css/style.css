@@ -1373,4 +1373,8 @@ h6{
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {/*background-color: #3e8e41;*/}
+
+ul{
+  list-style-type: circle;
+}
 /*# sourceMappingURL=style.css.map */
