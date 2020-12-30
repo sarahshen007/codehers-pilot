@@ -478,7 +478,7 @@ h2, h3, h4, h5, h6{
     transition: .3s all ease; }
   .sticky-wrapper.is-sticky .site-navbar {
     background-color: #ff6f95;
-    -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.6);
+   -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.6);
     box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.6); }
 
 /* Blocks */
